@@ -1,0 +1,36 @@
+.header-container {
+    margin: 5px;
+    background: indigo;
+    justify-content: space-evenly;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+
+.search-bar {
+    background-color: white;
+    border-radius: 5px;
+    border: 3px solid rgba(204, 210, 228, 0.374);
+    margin-left: 30%;
+    width: 35%;
+    justify-content: space-between;
+}
+.search-bar > input {
+    border: none;
+    outline: none;
+    
+}
+.header-section{
+    margin-left: 3px;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.logo{
+    margin-top: 5px;
+   
+    width: 100px;
+    background:  rgba(34, 46, 82, 0.374);
+    width: max-content;
+}
+
